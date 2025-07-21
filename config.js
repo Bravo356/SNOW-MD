@@ -24,8 +24,7 @@ ANTI_LINK: process.env.ANTI_LINK || "false",
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
 MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/rmcjwq.jpg",
-// add custom menu and mention reply image url
-PREFIX: process.env.PREFIX || ".",
+// add custom menu and mention reply image url || ".",
 // add your prifix for bot   
 BOT_NAME: process.env.BOT_NAME || "SNOW-MD",
 // add bot namw here for menu
